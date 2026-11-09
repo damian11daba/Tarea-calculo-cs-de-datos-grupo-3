@@ -42,3 +42,5 @@ desktop.ini
 extracted_texts/
 scratch/
 run_p2.py
+
+*.zip
